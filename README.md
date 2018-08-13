@@ -13,7 +13,20 @@ This is the folder storing all exploration of Computer Vision techniques and lib
 
 ![](assets/thumbnail.gif)
 
+- Displaying image using Matplotlib, PIL and OpenCV
+
+- Exploring the training and test set
+
+- Creating Convolution Neural Network and test with some validation image
+
+-  Using TensorBoard to track the process.
+
+  
+
 ## 2nd notebook: Object Detection and Feature Engineer
+
+- Manually detect object in an image
+- Extract features from an image - potentially for prediction purpose.
 
 
 
