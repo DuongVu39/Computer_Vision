@@ -30,6 +30,12 @@ This is the folder storing all exploration of Computer Vision techniques and lib
 
 
 
+### 3rd notebook: Good boys classification
+
+- Dog Breed Classification
+
+![](assets/note3.jpg)
+
 ### Dependencies
 
 - [numpy](http://www.numpy.org/)
