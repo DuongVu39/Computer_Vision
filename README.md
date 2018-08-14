@@ -9,7 +9,7 @@ This is the folder storing all exploration of Computer Vision techniques and lib
 
 
 
-## [1st notebook](Exploration_of_CV): Image Classification of Dog and Cat
+## [1st notebook](notebook/Exploration_of_CV.ipynb): Image Classification of Dog and Cat
 
 ![](assets/thumbnail.gif)
 
@@ -32,7 +32,7 @@ This is the folder storing all exploration of Computer Vision techniques and lib
 
 
 
-### 3rd notebook: Good boys classification
+## 3rd notebook: Good boys classification
 
 - Dog Breed Classification
 
