@@ -23,7 +23,7 @@ This is the folder storing all exploration of Computer Vision techniques and lib
 
   
 
-## 2nd notebook: Object Detection and Feature Engineer
+## [2nd notebook](notebook/object_detection.ipynb): Object Detection and Feature Engineer
 
 
 
