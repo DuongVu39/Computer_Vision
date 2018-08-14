@@ -25,6 +25,8 @@ This is the folder storing all exploration of Computer Vision techniques and lib
 
 ## 2nd notebook: Object Detection and Feature Engineer
 
+
+
 - Manually detect object in an image
 - Extract features from an image - potentially for prediction purpose.
 
@@ -35,6 +37,14 @@ This is the folder storing all exploration of Computer Vision techniques and lib
 - Dog Breed Classification
 
 ![](assets/note3.jpg)
+
+
+
+For log files, open using TensorBoard by typing below command in your terminal in where the log folder is:
+
+```
+tensorboard --logdir=logs
+```
 
 ### Dependencies
 
