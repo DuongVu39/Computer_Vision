@@ -32,13 +32,15 @@ This is the folder storing all exploration of Computer Vision techniques and lib
 
 
 
-## 3rd notebook: Good boys classification
+## [3rd notebook](notebook/Dog_breeds_identification.ipynb): Good boys classification
 
-- Dog Breed Classification
+- Dog Breed Identification
 
 ![](assets/note3.jpg)
 
-
+- This notebook is an exploration of this [Kaggle competition](https://www.kaggle.com/c/dog-breed-identification)
+- Exploring labels, training and test data
+- 
 
 For log files, open using TensorBoard by typing below command in your terminal in where the log folder is:
 
